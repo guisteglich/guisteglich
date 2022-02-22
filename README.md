@@ -1,4 +1,9 @@
 ## Olá! Eu sou o Guilherme Steglich de Oliveira. 👋 
+Um pouco sobre mim:
+
+- 🔭 Eu estou atualmente trabalhando e me desenvolvendo com **AWS**
+- 🌱 Atualmente estou estudando **Sistemas de informação - FURG**
+- 🏠 Rio Grande - Brasil
 
 ### E essas são as minhas estatísticas no GitHub: 🤓
 <div align="center">
