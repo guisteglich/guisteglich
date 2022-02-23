@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Guilherme Steglich de Oliveira. 👋 
 Um pouco sobre mim:
 
-- 🔭 Eu estou atualmente trabalhando e me desenvolvendo com **AWS**
-- 🌱 Atualmente estou aprendendo sobre **Banco de dados SQL e REST API**
-- 🎓 Estudante de **Sistemas de informação - [FURG](https://furg.br/)**
+- 🔭 Eu estou atualmente trabalhando e me desenvolvendo em AWS
+- 🌱 Atualmente estou aprendendo sobre Linux, Banco de dados e REST API
+- 🎓 Estudante de Sistemas de informação - [FURG](https://furg.br/)
 - 🏠 Rio Grande - Brasil
 - 📫 Como me contatar: guilherme.steglich16@gmail.com
 
