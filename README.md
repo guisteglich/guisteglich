@@ -2,7 +2,7 @@
 Um pouco sobre mim:
 
 - 🔭 Eu estou atualmente trabalhando e me desenvolvendo em AWS
-- 🌱 Atualmente estou aprendendo sobre Linux, Banco de dados e REST API
+- 🌱 Atualmente estou aprendendo sobre AWS, Linux, Banco de dados e REST API
 - 🎓 Estudante de Sistemas de informação - [FURG](https://furg.br/)
 - 🏠 Rio Grande - Brasil
 - 📫 Como me contatar: guilherme.steglich16@gmail.com
@@ -43,11 +43,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ### 🛠 Ferramentas:
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Agolang"><img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apostgresql"><img alt="Postgres" src="https://custom-icon-badges.herokuapp.com/badge/PostgreSQL-025E8C.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white"></a>
+<!-- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff"></a> -->
 <!-- <a href="#"><img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90"></a> -->
   
