@@ -5,6 +5,7 @@ Um pouco sobre mim:
 - 🌱 Atualmente estou aprendendo sobre **Banco de dados SQL e REST API**
 - 🎓 Estudante de **Sistemas de informação - FURG**
 - 🏠 Rio Grande - Brasil
+- 📫 Como me contatar: guilherme.steglich16@gmail.com
 
 ### E essas são as minhas estatísticas no GitHub: 🤓
 <div align="center">
