@@ -44,6 +44,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 🛠 Ferramentas:
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Agolang"><img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
