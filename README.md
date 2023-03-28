@@ -3,8 +3,8 @@ Um pouco sobre mim:
 
 - 🔭 Eu estou atualmente trabalhando e me desenvolvendo em AWS
 - 🌱 Atualmente estou aprendendo sobre AWS, Linux, Banco de dados e REST API
-- 🎓 Estudante de Sistemas de informação - [FURG](https://furg.br/)
-- 🏠 Rio Grande - Brasil
+- 🎓 Graduado em Sistemas de informação - [FURG](https://furg.br/)
+- 🏠 Parobé - Brasil
 - 📫 Como me contatar: guilherme.steglich16@gmail.com
 
 ### E essas são as minhas estatísticas no GitHub: 🤓
